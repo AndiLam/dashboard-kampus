@@ -5,7 +5,7 @@
     <div class="text-lg font-semibold">MY ACADEMIC</div>
     <div class="relative">
         <div id="profileDropdownToggle" class="flex items-center cursor-pointer">
-            <img src="{{ asset('https://cdn.jsdelivr.net/gh/AndiLam/cdn-stai/tes.jpg') }}" alt="User Profile" class="w-8 h-8 mr-2 object-fill rounded-full">
+            <img src="{{ asset('https://cdn.jsdelivr.net/gh/AndiLam/cdn-stai/STAI.png') }}" alt="User Profile" class="w-8 h-8 mr-2 object-fill rounded-full">
             <span>{{ session('user')['nim'] ?? session('user')['nidn'] ?? session('user')['username'] }}</span>
             <div class="relative ml-1 w-4 h-4">
                 <i class="fas fa-chevron-down absolute top-0 left-0 transition-transform duration-300"></i>
