@@ -40,7 +40,7 @@
             </thead>
             <tbody class="bg-white">
                 <tr>
-                    <td style="width: 20%" class="p-3 border">Januari 2024</td>
+                    <td style="width: 20%" class="p-3 border">September 2024</td>
                     <td style="width: 20%" class="p-3 border">Rp300.000</td>
                     <td style="width: 30%" class="p-3 border">Tunai</td>
                     <td style="width: 30%" class="p-3 border">Sudah Lunas</td>
