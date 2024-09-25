@@ -1,0 +1,19 @@
+.text-custom-green {
+    --tw-text-opacity: 1;
+    color: rgb(22 78 75 / var(--tw-text-opacity)); /* #164e4b */
+}
+
+.bg-custom-green {
+    --tw-bg-opacity: 1; /* Mengatur opacity menjadi 1 */
+    background-color: rgba(22, 78, 75, var(--tw-bg-opacity)); /* Menggunakan rgba untuk mendukung opacity */
+}
+
+.hover\:bg-custom-green:hover {
+    --tw-bg-opacity: 1;
+    background-color: rgb(22 78 75 / var(--tw-bg-opacity)); /* #164e4b */
+}
+
+.bg-custom-blue {
+    --tw-bg-opacity: 1;
+    background-color: rgb(3 98 111 / var(--tw-bg-opacity)); /* #03626f */
+}
